@@ -3,8 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# Title
-total-twotorial
+# total-twotorial
 
 ## Description
 A small React application to play a game of Tic-Tac-Toe!
@@ -28,6 +27,9 @@ None.
 
 ## Tests
 Tested extensively using React's native development server.
+
+## Screenshot of the applcation
+![alt text](assets/images/screenshot.png)
 
 Contact information (email address & GitHub username) of the developer
 ## Questions
